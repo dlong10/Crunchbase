@@ -1,2 +1,2 @@
 # Crunchbase
-Developing my data-engineering and analysis skills
+Showcasing my data-engineering and analysis skills
